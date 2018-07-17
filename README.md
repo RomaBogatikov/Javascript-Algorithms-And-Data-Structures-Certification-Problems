@@ -1,2 +1,2 @@
-# Javascript-Algorithms-And-Data-Structures-Certification-Problems
+# FreeCodeCamp-Javascript-Algorithms-And-Data-Structures-Certification-Tutorial
 
